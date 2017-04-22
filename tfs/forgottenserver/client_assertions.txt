@@ -1,0 +1,20 @@
+----- 02/03/2016 01:47:30 - Erebus (66.66.101.21) -----
+Debug Assertion 10.77 Objects.cpp 642
+Tue Mar 01 20:47:35 2016
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i7 -4710HQ @
+Video Card: Intel (R) HD GR
+Last Packet Types: 106 107 104 109 170 170 170 030 029 170
+Last Packet: 106 218 129 106 124 007 002 000 000 255 131 218 129 106 124 007
+Player Position: [33242,31850,7]
+Player Name: Erebus (S3TFS)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Network.cpp 841: exception occurred, reason:
+Control.cpp 1527: exception occurred (Type = 106) (MainWindow = 61100904), reason:
+Communication.cpp 2417: exception occurred (rx = 8) (ry = 6), reason:
+Objects.cpp 645: exception occurred (Type = 0) (Flag = 10), reason:
+Objects.cpp 642: assertion failed (Type = 0) (ObjectProperties->high() = 21963), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
