@@ -29638,10 +29638,10 @@
 	<item id="22400" article="a" name="umbral masterblade">
 		<attribute key="weight" value="5500" />
 		<attribute key="defense" value="31" />
-		<attribute key="attack" value="52" />
+		<attribute key="attack" value="60" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="3" />
-		<attribute key="skillSword" value="1" />
+		<attribute key="skillSword" value="3" />
 	</item>
 	<item id="22401" article="a" name="crude umbral slayer">
 		<attribute key="weight" value="10000" />
@@ -29682,10 +29682,10 @@
 	<item id="22406" article="a" name="umbral master axe">
 		<attribute key="weight" value="8000" />
 		<attribute key="defense" value="30" />
-		<attribute key="attack" value="53" />
+		<attribute key="attack" value="57" />
 		<attribute key="weaponType" value="axe" />
 		<attribute key="extradef" value="3" />
-		<attribute key="skillAxe" value="1" />
+		<attribute key="skillAxe" value="3" />
 	</item>
 	<item id="22407" article="a" name="crude umbral chopper">
 		<attribute key="weight" value="12000" />
@@ -29726,10 +29726,10 @@
 	<item id="22412" article="a" name="umbral master mace">
 		<attribute key="weight" value="8000" />
 		<attribute key="defense" value="30" />
-		<attribute key="attack" value="52" />
+		<attribute key="attack" value="55" />
 		<attribute key="weaponType" value="club" />
 		<attribute key="extradef" value="3" />
-		<attribute key="skillClub" value="1" />
+		<attribute key="skillClub" value="3" />
 	</item>
 	<item id="22413" article="a" name="crude umbral hammer">
 		<attribute key="weight" value="17000" />
@@ -29776,8 +29776,8 @@
 		<attribute key="slotType" value="two-handed" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="arrow" />
-		<attribute key="range" value="7" />
-		<attribute key="attack" value="6" />
+		<attribute key="range" value="8" />
+		<attribute key="attack" value="7" />
 		<attribute key="hitChance" value="5" />
 	</item>
 	<item id="22419" article="a" name="crude umbral crossbow">
@@ -29830,11 +29830,11 @@
 	<item id="22424" article="a" name="umbral master spellbook">
 		<attribute key="weight" value="3000" />
 		<attribute key="magiclevelpoints" value="4" />
-		<attribute key="absorbPercentEarth" value="5" />
-		<attribute key="absorbPercentFire" value="5" />
-		<attribute key="absorbPercentIce" value="5" />
-		<attribute key="absorbPercentEnergy" value="5" />
-		<attribute key="defense" value="20" />
+		<attribute key="absorbPercentEarth" value="7" />
+		<attribute key="absorbPercentFire" value="7" />
+		<attribute key="absorbPercentIce" value="7" />
+		<attribute key="absorbPercentEnergy" value="7" />
+		<attribute key="defense" value="25" />
 		<attribute key="weaponType" value="shield" />
 	</item>
 	<item id="22444" article="a" name="bad dream" />
